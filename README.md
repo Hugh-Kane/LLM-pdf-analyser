@@ -38,9 +38,10 @@ InvestmentPDF.py is a Python script for processing and analyzing investment-rela
    cd /LangChain/InvestmentPDF
    ```
 - **Run the script**:
-    '''
+
+    ```
     streamlit run InvestmentPDF.py
-    '''
+    ```
 - **Interacting with the UI**: Input queries in the Streamlit interface to interact with the document.
 
 ## Troubleshooting
