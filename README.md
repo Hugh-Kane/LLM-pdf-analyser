@@ -31,4 +31,18 @@ InvestmentPDF.py is a Python script for processing and analyzing investment-rela
 ## Usage 
 
 - **Activate Environment**: Activate the Python environment with LangChain and Streamlit.
+
     ```conda activate LangChainPDF```
+- **Navigate to Script Directory**:
+   ```bash
+   cd /LangChain/InvestmentPDF
+   ```
+- **Run the script**:
+    '''
+    streamlit run InvestmentPDF.py
+    '''
+- **Interacting with the UI**: Input queries in the Streamlit interface to interact with the document.
+
+## Troubleshooting
+
+- **Embedding Error**: If you encounter an error related to embeddings, ensure that the OpenAIEmbeddings class is correctly instantiated and used in the script.
