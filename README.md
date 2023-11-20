@@ -32,7 +32,9 @@ InvestmentPDF.py is a Python script for processing and analyzing investment-rela
 
 - **Activate Environment**: Activate the Python environment with LangChain and Streamlit.
 
-    ```conda activate LangChainPDF```
+    ```
+    conda activate LangChainPDF
+    ```
 - **Navigate to Script Directory**:
    ```bash
    cd /LangChain/InvestmentPDF
